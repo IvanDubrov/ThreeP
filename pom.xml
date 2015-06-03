@@ -11,13 +11,6 @@
     <url>http://maven.apache.org</url>
 
     <dependencies>
-        <dependency>
-            <groupId> sample </groupId>
-            <artifactId> com.sample </artifactId>
-            <version> 1.0 </version>
-            <scope> system </scope>
-            <systemPath> ${project.basedir}/src/main/resources/aspose-ocr-2.4.0.jar </systemPath>
-        </dependency>
         <!--connect icefaces-->
         <dependency>
             <groupId>org.icefaces</groupId>

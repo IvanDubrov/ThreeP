@@ -30,15 +30,6 @@
     <orderEntry type="library" name="jsch-0.1.27" level="project" />
     <orderEntry type="library" name="aspose-ocr-2.4.0" level="project" />
     <orderEntry type="library" name="jmagick-6.6.9" level="project" />
-    <orderEntry type="module-library">
-      <library name="Maven: sample:com.sample:1.0">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/src/main/resources/aspose-ocr-2.4.0.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
     <orderEntry type="library" name="Maven: org.icefaces:icefaces-ace:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.icefaces:icefaces:3.3.0" level="project" />
     <orderEntry type="library" name="Maven: org.icepush:icepush:3.3.0" level="project" />
